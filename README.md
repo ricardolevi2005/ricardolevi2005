@@ -14,6 +14,6 @@ Sou Engenheiro Eletricista e Analista de Sistemas de formação :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Música, Automobilismo e seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RicardoLevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-levi-campos-21a60014/)](https://www.linkedin.com/in/ricardo-levi-campos-21a60014/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-ricardolevi.campos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardolevi.campos@gmail.com)](mailto:ricardolevi.campos@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-ricardolevi2005@hotmail.com-informational?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ricardolevi2005@hotmail.com)](mailto:ricardolevi2005@hotmail.com)
 
 
